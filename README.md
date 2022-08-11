@@ -6,7 +6,7 @@
 
 ### [get-final-page](https://github.com/suniven/get-final-page)
 
-### [affiliate-offer-search](https://github.com/suniven/affiliate-offer-search)
+### [affiliate-offer-match](https://github.com/suniven/affiliate-offer-match)
 
 ### [前期一些杂七杂八的内容](https://github.com/suniven/youtube-shorts)
 
