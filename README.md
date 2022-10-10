@@ -1,10 +1,12 @@
 ## Project: Characterization and Detection of Affiliate-Market Powered Spam on Social Networks
 
+### [analysis](https://github.com/suniven/affiliate-offer-analysis)
+
 ### [scrape-webpage-contents](https://github.com/suniven/scrape-webpage-contents)
 
 ### [affiliate-offer-scrape](https://github.com/suniven/affiliate-offer-scrape)
 
-### [url-analysis](https://github.com/suniven/url-analysis)
+### [url-preprocessing](https://github.com/suniven/url-analysis)
 
 ### [get-final-page](https://github.com/suniven/get-final-page)
 
