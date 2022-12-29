@@ -14,8 +14,6 @@
 
 ### [affiliate-offer-match](https://github.com/suniven/affiliate-offer-match)
 
-### [前期一些杂七杂八的内容](https://github.com/suniven/youtube-shorts)
-
 ---
 
 Personal Blog: [https://suniven.github.io/](https://suniven.github.io/)
