@@ -10,8 +10,6 @@
 
 ### [url-preprocessing](https://github.com/suniven/url-analysis)
 
-### [get-final-page](https://github.com/suniven/get-final-page)
-
 ### [affiliate-offer-match](https://github.com/suniven/affiliate-offer-match)
 
 ---
